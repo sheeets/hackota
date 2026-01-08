@@ -12,5 +12,6 @@ workspace=1,monitor:DP-2
 ```
 
 ### QEMU
+Look into congfiguration file where this can be defined
 - `export LIBVIRT_DEFAULT_URI="qemu:///system"`
 
